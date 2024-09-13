@@ -1,0 +1,16 @@
+<> index.html 
+<!--Create boilerplate with l and tab-->
+<!doctype html>
+<html lang="en"></ <!--set language to english-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> HTML DEMO</title>
+</head>
+<body> 
+    <p> HI Everyone!</p>
+</body>
+
+</html>
+
+<del></del>

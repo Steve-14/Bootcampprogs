@@ -1,0 +1,33 @@
+.grid-container{
+    display:grid;
+    grid-template-columns: 25% 35% 40%;
+    grid-template-rows: 14.2% 14.2% 14.2%1 4.2% 14.2% 14.2% 14.2%;
+    border: 5px solid blue;text-align: left;
+    grid-gap: 4px;
+
+}
+
+.grid-container p{
+    border:4px solid rgb(235, 216, 11);
+    height:200px;
+}
+
+.grid-item{
+border: 6px rgb(214, 171, 17) 3px;
+text-align: center;
+}
+.grid-goblin{
+grid-column: 2;
+grid-row: 2 / span 2;
+
+}
+
+#grid-static-2b{
+    grid-column: 2;
+    grid-row: 2;
+}
+
+#grid-static-3b{
+    grid-column: 2;
+    grid-row: 3;
+}
